@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    .fon {
+        background-image: (img/fon.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .nature {
+        width: 480px;
+        background-color: white;
+        padding: 60px 40px;
+        margin: 200px auto 120px;
+        display: block;
+    }
